@@ -1,4 +1,12 @@
 {
-  "UDID_CUA_KHACH_1_DAY_NE": "2026-05-20",
-  "UDID_CUA_KHACH_2_DAY_NE": "2026-06-15"
+  "C9E776ED-F13C-4645-BC07-2CB2B6D782C9": {
+    "ten": "VIP Khách Của Long",
+    "ngay_mua": "20/04/2026",
+    "ngay_het_han": "20/05/2026"
+  },
+  "UDID_KHACH_THU_2_NE": {
+    "ten": "Dân Chơi 2",
+    "ngay_mua": "21/04/2026",
+    "ngay_het_han": "21/05/2026"
+  }
 }
