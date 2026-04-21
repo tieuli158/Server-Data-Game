@@ -1,71 +1,62 @@
 {
-  "UDID_KHACH_1_PASTE_VAO_DAY": {
-    "ten": "Khách 1",
-    "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+  "00008110-001A246E0A83001E": {
+    "ten": "Long Nguyen Dev",
+    "ngay_mua": "21/04/2026",
+    "so_ngay_mua": 365,
+    "trang_thai": "khoa"
   },
-  
-  "UDID_KHACH_2_PASTE_VAO_DAY": {
-    "ten": "Khách 2",
-    "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+  "A1B2C3D4-E5F6-4G7H-8I9J-K0L1M2N3O4P5": {
+    "ten": "Khách Dùng Thử",
+    "ngay_mua": "21/04/2026",
+    "so_ngay_mua": 1,
+    "trang_thai": "khoa"
   },
-  
-  "UDID_KHACH_3_PASTE_VAO_DAY": {
-    "ten": "Khách 3",
+  "Z9Y8X7W6-V5U4-T3S2-R1Q0-P9O8N7M6L5K4": {
+    "ten": "Gamer Pro 99",
     "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+    "so_ngay_mua": 7,
+    "trang_thai": "khoa"
   },
-  
-  "UDID_KHACH_4_PASTE_VAO_DAY": {
-    "ten": "Khách 4",
-    "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+  "B2D4F6H8-J1K3-L5M7-N9P0-Q2R4S6T8U0V2": {
+    "ten": "Tay Súng Miền Tây",
+    "ngay_mua": "15/04/2026",
+    "so_ngay_mua": 30,
+    "trang_thai": "khoa"
   },
-  
-  "UDID_KHACH_5_PASTE_VAO_DAY": {
-    "ten": "Khách 5",
-    "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+  "C1A3E5G7-I9K1-M3O5-Q7S9-U1W3Y5Z7A9B1": {
+    "ten": "Trùm Mod Game",
+    "ngay_mua": "01/04/2026",
+    "so_ngay_mua": 30,
+    "trang_thai": "khoa"
   },
-  
-  "UDID_KHACH_6_PASTE_VAO_DAY": {
-    "ten": "Khách 6",
-    "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+  "D5F0E1A2-B3C4-D5E6-F7G8-H9I0J1K2L3M4": {
+    "ten": "Thánh Hack iOS",
+    "ngay_mua": "10/04/2026",
+    "so_ngay_mua": 90,
+    "trang_thai": "khoa"
   },
-  
-  "UDID_KHACH_7_PASTE_VAO_DAY": {
-    "ten": "Khách 7",
-    "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+  "E9A1B2C3-D4E5-F6G7-H8I9-J0K1L2M3N4O5": {
+    "ten": "DVC Leak Member",
+    "ngay_mua": "21/04/2026",
+    "so_ngay_mua": 7,
+    "trang_thai": "khoa"
   },
-  
-  "UDID_KHACH_8_PASTE_VAO_DAY": {
-    "ten": "Khách 8",
-    "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+  "F2G4H6J8-K0L2-M4N6-P8Q0-R2S4T6U8V0W2": {
+    "ten": "Ẩn Danh 007",
+    "ngay_mua": "18/04/2026",
+    "so_ngay_mua": 3,
+    "trang_thai": "khoa"
   },
-  
-  "UDID_KHACH_9_PASTE_VAO_DAY": {
-    "ten": "Khách 9",
-    "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+  "12345678-ABCD-EFGH-IJKL-MNOPQRSTUVWX": {
+    "ten": "Khách Bị Khóa",
+    "ngay_mua": "01/01/2026",
+    "so_ngay_mua": 365,
+    "trang_thai": "khoa"
   },
-  
-  "UDID_KHACH_10_PASTE_VAO_DAY": {
-    "ten": "Khách 10",
+  "87654321-DCBA-HGFE-LKJI-XWVUTSRQPONM": {
+    "ten": "Gia Hạn 1 Năm",
     "ngay_mua": "20/04/2026",
-    "ngay_het_han": "20/05/2026",
-    "trang_thai": "mo"
+    "so_ngay_mua": 365,
+    "trang_thai": "khoa"
   }
 }
