@@ -1,14 +1,16 @@
 {
+  "TrangThaiServer": "HoatDong",
+  "ThongBaoChung": "",
   "D45F8DCB-4469-4E64-B86C-45D2C0CFDE6B": {
-    "ten": "Long.Dragonfencttd",
-    "ngay_mua": "21/04/2026",
-    "so_ngay_mua": 7,
-    "trang_thai": "mo"
-  },
-  "A1B2C3D4-E5F6-4G7H-8I9J-K0L1M2N3O4P5": {
-    "ten": "Khách Dùng Thử",
+    "ten": "Long.DragonFeverTD",
     "ngay_mua": "21/04/2026",
     "so_ngay_mua": 1,
+    "trang_thai": "mo"
+  },
+  "6E97D4E1-EC2A-4E0D-8B95-F1F35706B6DD": {
+    "ten": "Hùng",
+    "ngay_mua": "21/04/2026",
+    "so_ngay_mua": 30,
     "trang_thai": "khoa"
   },
   "Z9Y8X7W6-V5U4-T3S2-R1Q0-P9O8N7M6L5K4": {
