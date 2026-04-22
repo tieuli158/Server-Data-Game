@@ -38,10 +38,10 @@
     "trang_thai": "mo"
   },
 
-  "KHACH-4-UDID": {
-    "ghi_chu": "tele: ",
-    "ten": "Khách 4",
-    "ngay_mua": "",
+  "D3FE9787-AAE9-42F5-B872-68F6CE8D4101": {
+    "ghi_chu": "tele: Giang Nguyễn",
+    "ten": "NGUYEN HUY GIANG",
+    "ngay_mua": "22/04/2026",
     "so_ngay_mua": 30,
     "trang_thai": "mo"
   },
@@ -51,7 +51,7 @@
     "ten": "Khách 5",
     "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "mo"
+    "trang_thai": "khoa"
   },
 
   "KHACH-6-UDID": {
@@ -59,7 +59,7 @@
     "ten": "Khách 6",
     "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "mo"
+    "trang_thai": "khoa"
   },
 
   "KHACH-7-UDID": {
@@ -67,7 +67,7 @@
     "ten": "Khách 7",
     "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "mo"
+    "trang_thai": "khoa"
   },
 
   "KHACH-8-UDID": {
@@ -75,7 +75,7 @@
     "ten": "Khách 8",
     "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "mo"
+    "trang_thai": "khoa"
   },
 
   "KHACH-9-UDID": {
@@ -83,7 +83,7 @@
     "ten": "Khách 9",
     "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "mo"
+    "trang_thai": "khoa"
   },
 
   "KHACH-10-UDID": {
@@ -91,7 +91,7 @@
     "ten": "Khách 10",
     "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "mo"
+    "trang_thai": "khoa"
   },
 
   "KHACH-11-UDID": {
@@ -99,7 +99,7 @@
     "ten": "Khách 11",
     "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "mo"
+    "trang_thai": "khoa"
   },
 
   "KHACH-12-UDID": {
@@ -107,7 +107,7 @@
     "ten": "Khách 12",
     "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "mo"
+    "trang_thai": "khoa"
   },
 
   "KHACH-13-UDID": {
