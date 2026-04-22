@@ -1,35 +1,176 @@
 {
-  "--- CHÚ THÍCH QUẢN LÝ (ADMIN LONG NGUYỄN) ---": {
+  "--- CHÚ THÍCH QUẢN LÝ (DÀNH CHO ADMIN LONG NGUYỄN) ---": {
     "TrangThaiServer": "Để 'HoatDong' là vào game bình thường. Để 'BaoTri' là khoá toàn server và hiện bảng bảo trì.",
     "VersionMod": "Phiên bản hiện tại trên server (Ví dụ: 1.0). Nếu khác với số trong code game, khách sẽ bị ép Update.",
     "UpdateChung": "Nội dung hiện ra khi bắt khách Update (Ví dụ: Đã có bản V2.0 Antiban).",
-    "trang_thai": "Để 'mo' là key hoạt động. Để 'khoa' là UDID đó bị cấm, không vào được game.",
-    "ngay_mua": "Bỏ trống '' để hệ thống tự bắt ngày hôm nay. Điền ngày vào để ép ngày mua cũ (Dùng khi muốn trừ lùi ngày).",
-    "so_ngay_mua": "Số ngày khách được xài (Ví dụ: 1, 7, 30, 365)."
+    "ghi_chu": "Ghi chú ẩn dành riêng cho Admin (Zalo/Tele khách). Code game sẽ KHÔNG đọc dòng này, khách cũng KHÔNG thấy.",
+    "ten": "Tên khách sẽ hiện trên bảng thông báo trong game (Ví dụ: Xin Chào: Khách 1).",
+    "ngay_mua": "Bỏ trống '' để hệ thống tự bắt ngày hôm nay. Điền ngày (dd/MM/yyyy) để ép ngày mua cũ (Dùng khi trừ lùi ngày).",
+    "so_ngay_mua": "Số ngày khách được xài (Ví dụ: 1, 7, 30, 365).",
+    "trang_thai": "Để 'mo' là key hoạt động. Để 'khoa' là UDID đó bị cấm, không vào được game."
   },
 
   "TrangThaiServer": "HoatDong",
   "VersionMod": "",
   "UpdateChung": "",
 
-  "8DD34B96-229C-4C3F-935F-8472B30761C8": { "ten": "Long", "ngay_mua": "19/04/2026", "so_ngay_mua": 20, "trang_thai": "mo" },
-  "KHACH-2-UDID": { "ten": "Khách 2", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-3-UDID": { "ten": "Khách 3", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-4-UDID": { "ten": "Khách 4", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-5-UDID": { "ten": "Khách 5", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-6-UDID": { "ten": "Khách 6", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-7-UDID": { "ten": "Khách 7", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-8-UDID": { "ten": "Khách 8", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-9-UDID": { "ten": "Khách 9", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-10-UDID": { "ten": "Khách 10", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-11-UDID": { "ten": "Khách 11", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-12-UDID": { "ten": "Khách 12", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-13-UDID": { "ten": "Khách 13", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-14-UDID": { "ten": "Khách 14", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-15-UDID": { "ten": "Khách 15", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-16-UDID": { "ten": "Khách 16", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-17-UDID": { "ten": "Khách 17", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-18-UDID": { "ten": "Khách 18", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-19-UDID": { "ten": "Khách 19", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" },
-  "KHACH-20-UDID": { "ten": "Khách 20", "ngay_mua": "", "so_ngay_mua": 30, "trang_thai": "khoa" }
+  "8DD34B96-229C-4C3F-935F-8472B30761C8": {
+    "ghi_chu": "ADMIN",
+    "ten": "ADMIN",
+    "ngay_mua": "19/04/2026",
+    "so_ngay_mua": 5,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-2-UDID": {
+    "ghi_chu": "Tele: @boy_bmt",
+    "ten": "Khách 2",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-3-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 3",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-4-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 4",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-5-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 5",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-6-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 6",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-7-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 7",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-8-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 8",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-9-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 9",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-10-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 10",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-11-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 11",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-12-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 12",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-13-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 13",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-14-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 14",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-15-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 15",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-16-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 16",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-17-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 17",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-18-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 18",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-19-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 19",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-20-UDID": {
+    "ghi_chu": "Slot trống",
+    "ten": "Khách 20",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "khoa"
+  }
 }
