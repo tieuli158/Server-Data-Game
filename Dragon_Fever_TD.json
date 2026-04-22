@@ -1,54 +1,176 @@
 {
+  "--- CHÚ THÍCH QUẢN LÝ (DÀNH CHO ADMIN LONG NGUYỄN) ---": {
+    "TrangThaiServer": "Để 'HoatDong' là vào game bình thường. Để 'BaoTri' là khoá toàn server và hiện bảng bảo trì.",
+    "VersionMod": "Phiên bản hiện tại trên server (Ví dụ: 1.0). Nếu khác với số trong code game, khách sẽ bị ép Update.",
+    "UpdateChung": "Nội dung hiện ra khi bắt khách Update (Ví dụ: Đã có bản V2.0 Antiban).",
+    "ghi_chu": "Ghi chú ẩn dành riêng cho Admin (Zalo/Tele khách). Code game sẽ KHÔNG đọc dòng này, khách cũng KHÔNG thấy.",
+    "ten": "Tên khách sẽ hiện trên bảng thông báo trong game (Ví dụ: Xin Chào: Khách 1).",
+    "ngay_mua": "Bỏ trống '' để hệ thống tự bắt ngày hôm nay. Điền ngày (dd/MM/yyyy) để ép ngày mua cũ (Dùng khi trừ lùi ngày).",
+    "so_ngay_mua": "Số ngày khách được xài (Ví dụ: 1, 7, 30, 365).",
+    "trang_thai": "Để 'mo' là key hoạt động. Để 'khoa' là UDID đó bị cấm, không vào được game."
+  },
+
   "TrangThaiServer": "HoatDong",
+  "VersionMod": "",
   "UpdateChung": "",
+
   "D45F8DCB-4469-4E64-B86C-45D2C0CFDE6B": {
-    "ten": "Long.DragonFeverTD",
-    "so_ngay_mua": 2,
+    "ghi_chu": "ADMIN",
+    "ten": "ADMIN",
+    "ngay_mua": "19/04/2026",
+    "so_ngay_mua": 5,
     "trang_thai": "mo"
   },
+
   "367735F0-2417-4793-8C85-5EFDCEAA3243": {
+    "ghi_chu": "Tele: Junr Nie",
     "ten": "NGUYEN VAN HOANG",
+    "ngay_mua": "21/04/2026",
     "so_ngay_mua": 30,
     "trang_thai": "mo"
   },
+
   "2A34F5EC-854E-4BFB-A4D4-EB3B22773E88": {
+    "ghi_chu": "tele: @omaigot33",
     "ten": "Huần Nguyễn",
+    "ngay_mua": "15/04/2026",
     "so_ngay_mua": 30,
     "trang_thai": "mo"
   },
-  "B2D4F6H8-J1K3-L5M7-N9P0-Q2R4S6T8U0V2": {
-    "ten": "Tay Súng Miền Tây",
+
+  "KHACH-4-UDID": {
+    "ghi_chu": "tele: ",
+    "ten": "Khách 4",
+    "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "khoa"
+    "trang_thai": "mo"
   },
-  "C1A3E5G7-I9K1-M3O5-Q7S9-U1W3Y5Z7A9B1": {
-    "ten": "Trùm Mod Game",
+
+  "KHACH-5-UDID": {
+    "ghi_chu": "tele: ",
+    "ten": "Khách 5",
+    "ngay_mua": "",
     "so_ngay_mua": 30,
-    "trang_thai": "khoa"
+    "trang_thai": "mo"
   },
-  "D5F0E1A2-B3C4-D5E6-F7G8-H9I0J1K2L3M4": {
-    "ten": "Thánh Hack iOS",
-    "so_ngay_mua": 90,
-    "trang_thai": "khoa"
+
+  "KHACH-6-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 6",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
   },
-  "E9A1B2C3-D4E5-F6G7-H8I9-J0K1L2M3N4O5": {
-    "ten": "DVC Leak Member",
-    "so_ngay_mua": 7,
-    "trang_thai": "khoa"
+
+  "KHACH-7-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 7",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
   },
-  "F2G4H6J8-K0L2-M4N6-P8Q0-R2S4T6U8V0W2": {
-    "ten": "Ẩn Danh 007",
-    "so_ngay_mua": 3,
-    "trang_thai": "khoa"
+
+  "KHACH-8-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 8",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
   },
-  "12345678-ABCD-EFGH-IJKL-MNOPQRSTUVWX": {
-    "ten": "Khách Bị Khóa",
-    "so_ngay_mua": 365,
-    "trang_thai": "khoa"
+
+  "KHACH-9-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 9",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
   },
-  "87654321-DCBA-HGFE-LKJI-XWVUTSRQPONM": {
-    "ten": "Gia Hạn 1 Năm",
-    "so_ngay_mua": 365,
+
+  "KHACH-10-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 10",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-11-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 11",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-12-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 12",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-13-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 13",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-14-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 14",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-15-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 15",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-16-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 16",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-17-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 17",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-18-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 18",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-19-UDID": {
+    "ghi_chu": "",
+    "ten": "Khách 19",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
+    "trang_thai": "mo"
+  },
+
+  "KHACH-20-UDID": {
+    "ghi_chu": "Slot trống",
+    "ten": "Khách 20",
+    "ngay_mua": "",
+    "so_ngay_mua": 30,
     "trang_thai": "khoa"
   }
 }
