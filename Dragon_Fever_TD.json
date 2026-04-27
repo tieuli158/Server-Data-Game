@@ -55,7 +55,7 @@
   },
   
   "1AFB9A2B-8729-46DD-86E7-15917B9A5A45": {
-    "ghi_chu": "DUC LONG",
+    "ghi_chu": "tele: DUC LONG",
     "ten": "NGUYEN DUC LONG",
     "ngay_mua": "26/04/2026",
     "so_ngay_mua": 30,
@@ -63,9 +63,9 @@
   },
 
   "KHACH-7-UDID": {
-    "ghi_chu": "",
-    "ten": "Khách 7",
-    "ngay_mua": "",
+    "ghi_chu": "tele: Pha",
+    "ten": "PHAN DANG KHOA",
+    "ngay_mua": "27/04/2026",
     "so_ngay_mua": 30,
     "trang_thai": "khoa"
   },
